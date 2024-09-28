@@ -49,8 +49,11 @@ The project starts by constructing individual mathematical operations in assembl
 
 ### **Workflow**
 - **Assembly Language**: All functions were written in RISC-V assembly to demonstrate how low-level operations can perform high-level machine learning tasks.
+- **Debugging**: Leveraged Venus's built-in debugger (**VDB**) to identify bugs and ensure correct memory handling.
+- **Venus RISC-V Simulator**: A web-based simulator for running and debugging RISC-V assembly code.
 - **Testing Framework**: Python-based unit tests were compiled into RISC-V assembly and tested using Venus. Memcheck was utilized to catch memory access errors.
-- **Debugging**: Leveraged Venus's built-in debugger (VDB) to identify bugs and ensure correct memory handling.
+
+
 
 ---
 
