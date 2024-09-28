@@ -62,11 +62,10 @@ The process of building these fundamental functions in assembly revealed key ins
 
 ---
 
-### **Visual Overview**
+### **Code Details**
 
-Below is a diagrammatic overview of how the implemented functions interact in a neural network-like process:
+Below is an overview of how the implemented functions interact in a neural network-like process:
 
-```
 
 1. **Input Matrix**: The input is a matrix of integers, representing features.
 2. **Matrix Multiplication**: The input is transformed by multiplying it with weight matrices (mimicking layers of a neural network).
@@ -93,4 +92,4 @@ Though the code cannot be published due to course regulations, this project repr
 
 ### **Future Work**
 I plan to continue refining my understanding of systems programming, possibly applying similar low-level optimization techniques to more advanced machine learning models or parallel computing projects.
-```
+
